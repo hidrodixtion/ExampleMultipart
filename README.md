@@ -1,6 +1,8 @@
 # ExampleMultipart
 #### Simple Image Upload Server
 
+Example from http://hidrodixtion.github.io/2016/06/02/create-simple-image-upload-server-in-node-js/
+
 1. Install node & npm
   - _optional_: install coffeescript. `npm install -g coffee-script`
 2. Install express. `npm install express`
